@@ -1,0 +1,26 @@
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Master', 'Lokesh Kanagaraj', 2021, 7.3, 'Vijay');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Vikram', 'Lokesh Kanagaraj', 2022, 8.8, 'Kamal');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Maanaadu', 'Venkat Prabu', 2021, 8.3 'Simbu');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Karnan', 'Mari Selvaraj', 2021, 8.1, 'Dhanush');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Anbe Sivam', 'Sundar C', 2003, 8.7, 'Kamal');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Singham', 'Hari', 2010, 6.9, 'Suriya');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Don', 'Cibi Chakaravarthi', 2022, 6.9, 'Siva Karthikeyan');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('Paiya', 'N.Linguswamy', 2010, 6.7, 'Karthi');
+
+INSERT INTO movies (title,  director, year_released, rating, actor)
+VALUES ('KGF', 'Prashanth Neel', 2022, 8.2, 'Yash');
